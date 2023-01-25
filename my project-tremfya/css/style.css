@@ -1,0 +1,238 @@
+.table1 {
+    display: flex;
+    flex-direction: column;
+    width: 48%;
+}
+
+.table2 {
+    display: flex;
+    flex-direction: column;
+    width: 48%;
+}
+
+.maintable {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.kalam {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    padding: 2px;
+}
+
+.ro7 {
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.nezam {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.btn-edit {
+    color: #fff;
+    background-color: #03a9f4b3;
+    border-color: transparent;
+    margin-right: 2px;
+}
+
+.btn-edit:focus,
+.btn-edit.focus {
+    color: #fff;
+    background-color: #138bea;
+}
+
+.btn-edit:hover {
+    color: #fff;
+    background-color: #138bea;
+}
+
+.btn-trash {
+    color: #fff;
+    background-color: #e31313;
+    border-color: transparent;
+}
+
+.btn-trash:focus,
+.btn-trash.focus {
+    color: #fff;
+    background-color: #a40f0fd9;
+}
+
+.btn-trash:hover {
+    color: #fff;
+    background-color: #a40f0fd9;
+}
+.btn-active {
+    color: #fff;
+    background-color: #0cd8c5b5;
+    border-color: transparent;
+    border-radius: 18px;
+}
+
+.btn-active:focus,
+.btn-active.focus {
+    color: #fff;
+    background-color: #0b8b7eb5;
+}
+
+.btn-active:hover {
+    color: #fff;
+    background-color: #0b8b7eb5;
+}
+.btn-new {
+    color: #fff;
+    background-color: #9e26b3;
+    border-color: transparent;
+    text-align: center;
+    width: 300px;
+}
+
+.btn-new:focus,
+.btn-new.focus {
+    color: #fff;
+    background-color: #79078c;
+}
+
+.btn-new:hover {
+    color: #fff;
+    background-color: #470552;
+    
+}
+.btn-gg {
+    color: #141111a8;
+    background-color: #00000000;
+    border-color: #0e0e0e;
+    border-radius: 13px;
+    border: 2px solid;
+}
+
+.btn-gg:focus,
+.btn-gg.focus {
+    color: #141111a8;
+    background-color: #00000000;
+    border: 2px solid;
+
+}
+
+.btn-gg:hover {
+    color: #fff;
+    background-color: #302f2f;
+    border-color: #0e0e0e;
+    border: 2px solid;
+    
+}
+.btn-active2 {
+    color: #fff;
+    background-color: #3F51B5;
+    border-color: transparent;
+    border-radius: 14px;
+    font-size: 9.5px;
+    text-align: center;
+    margin-left: 1.5PX;
+    margin-right: 1.5PX;
+}
+
+.btn-active2:focus,
+.btn-active2.focus {
+    color: #fff;
+    background-color: #3F51B5;
+}
+
+.btn-active2:hover {
+    color: #fff;
+    background-color: #020f59;
+}
+.btn-active3 {
+    color: #fff;
+    background-color: #6b6b6be3;
+    border-color: transparent;
+    border-radius: 15px;
+    font-size: 9.5px;
+    text-align: center;
+}
+
+.btn-active3:focus,
+.btn-active3.focus {
+    color: #fff;
+    background-color: #6b6b6be3;
+}
+
+.btn-active3:hover {
+    color: #fff;
+    background-color: #494747e3;
+}
+.btn-editPro {
+    color: #fff;
+    background-color: #03a9f4b3;
+    border-color: transparent;
+    margin-right: 2px;
+    font-size: 11px;
+    padding: 8px 11px;
+    text-align: center;
+}
+
+.btn-editPro:focus,
+.btn-edit.focus {
+    color: #fff;
+    background-color: #138bea;
+}
+
+.btn-editPro:hover {
+    color: #fff;
+    background-color: #138bea;
+}
+.btn-activePro {
+    color: #fff;
+    background-color: #28d52f;
+    border-color: transparent;
+    margin-right: 2px;
+    font-size: 11px;
+    padding: 8px 11px;
+    text-align: center;
+}
+
+.btn-activePro:focus,
+.btn-activePro.focus {
+    color: #fff;
+    background-color: #28d52f;
+}
+
+.btn-activePro:hover {
+    color: #fff;
+    background-color: #4CAF50;
+}
+.btn-deactivePro {
+    color: #fff;
+    background-color: #e31313;
+    border-color: transparent;
+    margin-right: 2px;
+    font-size: 11px;
+    padding: 8px 11px;
+    text-align: center;
+}
+
+.btn-deactivePro:focus,
+.btn-deactivePro.focus {
+    color: #fff;
+    background-color: #a40f0fd9;
+}
+
+.btn-deactivePro:hover {
+    color: #fff;
+    background-color: #a40f0fd9;
+}
+.fff{
+    text-align: center;
+    font-size: 12px;
+}
+.ff{
+    text-align: center;
+}
